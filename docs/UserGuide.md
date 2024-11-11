@@ -14,6 +14,7 @@ Designed to streamline the workflow of TAs, TAHub goes beyond basic contact mana
 <page-nav-print />
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## Glossary
 
@@ -51,6 +52,7 @@ Designed to streamline the workflow of TAs, TAHub goes beyond basic contact mana
 6. Refer to the [Features](#features) below for details of each command.
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## Quick Start (Detailed)
 
@@ -153,6 +155,7 @@ Designed to streamline the workflow of TAs, TAHub goes beyond basic contact mana
 6. Refer to the [Features](#features) section below for details of each command.
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## Features
 
@@ -200,7 +203,8 @@ Refer to the specific sections for a detailed guide on how to use each command.
 - If you are using a PDF version of this document, be careful when copying and pasting commands that span multiple lines as space characters surrounding line-breaks may be omitted when copied over to the application.
   </box>
 
-<br></br>
+<div style="page-break-after: always;"></div>
+
 ### Viewing help : `help`
 
 Shows a message explaining how to access the help page.
@@ -497,6 +501,7 @@ By following these steps, you can easily transfer all your TAHub data to a new c
 2. **If you minimize the Help Window** and then run the `help` command (or use the `Help` menu, or the keyboard shortcut `F1`) again, the original Help Window will remain minimized, and no new Help Window will appear. The remedy is to manually restore the minimized Help Window.
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## Command Summary
 
